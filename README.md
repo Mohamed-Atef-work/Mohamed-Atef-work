@@ -33,7 +33,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=563D7C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![APIs](https://img.shields.io/badge/-API-05122A?style=flat&logo=api)&nbsp;
+![Firebase](https://img.shields.io/badge/-firebase-05122A?style=flat&logo=firebase)&nbsp;
 ![Cubit](https://img.shields.io/badge/-Cubit-05122A?style=flat&logo=cubit)&nbsp;
 ![Bloc](https://img.shields.io/badge/-Bloc-05122A?style=flat&logo=bloc)&nbsp;
 ![Dio](https://img.shields.io/badge/-Dio-05122A?style=flat&logo=dio)&nbsp;
