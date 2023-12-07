@@ -13,12 +13,13 @@
 
 <!---
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="330" height="250">
----->
+--->
+
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <!---
 <img align="right" alt="GIF" src="code.gif" width="330" height="250" />
-
+--->
 
 <h3>🚀 About Me</h3> 
 <h4> I'm a computer science graduate, interested in developing mobile apps using Flutter. </h4>
