@@ -11,11 +11,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-<!---
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="330" height="250">
----->
 
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="330" height="250">
+
+<!---
 <img align="right" alt="GIF" src="code.gif" width="330" height="250" />
+---->
 
 <h3>🚀 About Me</h3> 
 <h4> I'm a computer science graduate, interested in developing mobile apps using Flutter. </h4>
