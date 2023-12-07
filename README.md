@@ -13,6 +13,7 @@
 
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="330" height="250">
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <!---
 <img align="right" alt="GIF" src="code.gif" width="330" height="250" />
@@ -21,16 +22,20 @@
 <h3>🚀 About Me</h3> 
 <h4> I'm a computer science graduate, interested in developing mobile apps using Flutter. </h4>
 
+
+
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
+
+
 
 - 👨‍💻 As a CS graduate, I'm constantly learning and exploring new technologies to improve my skills.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 
+
+
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=45% height=95px>
 
 
 
@@ -46,6 +51,10 @@
 ![Dio](https://img.shields.io/badge/-Dio-05122A?style=flat&logo=dio)&nbsp;
 ![State Management](https://img.shields.io/badge/-State%20Management-05122A?style=flat&logo=state-management&logoColor=007ACC)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=007ACC)&nbsp;
+
+
+
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=45% height=95px>
 
 
 
