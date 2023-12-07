@@ -46,7 +46,7 @@
  ### 🔗Contact Me
 [![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100007632333514)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=01554465660)
-[![Linked IN](https://img.shields.io/badge/linked-in-1877F2?style=for-the-badge&logo=linked-in&logoColor=white)](https://www.linkedin.com/in/mohamed-atef-43671823b)
+[![Linked IN](https://img.shields.io/badge/linked%20in-1877F2?style=for-the-badge&logo=linked-in&logoColor=white)](https://www.linkedin.com/in/mohamed-atef-43671823b)
 
 <a href="https://www.linkedin.com/in/mohamed-atef-43671823b" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Atef-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
